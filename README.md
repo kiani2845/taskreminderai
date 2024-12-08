@@ -1,5 +1,3 @@
-# taskreminderai
-
 
 🌟 **Introducing AI Smarter Task Reminder 🌟 Introducing AI Smarter Task Reminder 🌟
 
