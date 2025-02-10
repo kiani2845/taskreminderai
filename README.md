@@ -15,3 +15,7 @@ Seamless Integration: Connect with your calendar and other productivity tools fo
 Customizable Notifications: Choose how and when you want to be reminded, ensuring you stay on track.
 
 Transform the way you manage your tasks and boost your productivity with AI Smarter Task Reminder. Don’t let important tasks
+
+
+
+The exe version: https://www.epicpxls.com/items/ai-smarter-task-reminder-v1-0
